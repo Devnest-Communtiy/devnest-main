@@ -86,7 +86,7 @@ export default function EventsPage() {
                                     </div>
 
                                     <div className="flex items-center gap-4 md:flex-col md:gap-3 lg:flex-row">
-                                        <Button variant="glow" size="lg" className="w-full md:w-auto">
+                                        <Button variant="default" size="lg" className="w-full md:w-auto">
                                             Register Now
                                         </Button>
                                         <Button variant="ghost" size="lg" className="w-full md:w-auto">
