@@ -30,7 +30,7 @@ export default function EventsPage() {
                             </div>
 
                             <div className="p-6 flex items-center justify-center border-l border-white/5 bg-transparent">
-                                <Button variant="glow" className="w-full md:w-auto">Register Now</Button>
+                                <Button variant="default" className="w-full md:w-auto">Register Now</Button>
                             </div>
                         </div>
                     </Card>
